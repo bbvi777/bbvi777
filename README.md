@@ -27,4 +27,4 @@ german · english · french (a little) · spanish (a little)
 ![bbvi777's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbvi777&show_icons=true&theme=tokyonight)
 
 ---
- * l e a r n i n g  b y  b u i l d i n g * ˚.🎀༘⋆
+L E A R N I N G B Y B U I L D I N G  ˚.🎀༘⋆
