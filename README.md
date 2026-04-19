@@ -14,7 +14,7 @@ currently building security tools and looking for opportunities in the cyber wor
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-## kanguages
+## languages
 german · english · french (a little) · spanish (a little)
 
 ## connect w/ me
